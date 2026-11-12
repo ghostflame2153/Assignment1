@@ -17,6 +17,9 @@ body {
     max-width: 300px;
     border: 2px solid red;
 }
+.hover:hover {
+    color:white;
+}
 
 p {
     color:#B51D60;

@@ -11,6 +11,7 @@ body {
 
 }
 .box {
-    width:fit-content;
+    max-width: 300px;
     border: 2px solid red;
+    text-wrap: 
 }

@@ -1,6 +1,6 @@
 Assignment 1
 
 Uriel Dolgin
-Which component option did you chose
+Option A: Profile Card
 Your live site URL (GitHub Pages link)
-Any notes about your design choices
+I added a JS button, and a few other things. Partly because I want to make sure I know how they work properly, and also to make sure theres enough content there. 
